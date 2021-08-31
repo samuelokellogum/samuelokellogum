@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about **JavaScript**, **Dart**, **PHP**, **Python** and *ML* 
+- 💬 Ask me about **JavaScript**, **Dart**, **PHP**, **Python** and *Hollywood* 
 - 📫 How to reach me: @SamuelOkellogum
 - ⚡ Fun fact: I love sports
 
