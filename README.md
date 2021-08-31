@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+It's Samuel Okellogum **JavaScript**, **Dart**, **PHP**, **Python** and *ML* 
+![Github stats](https://github-readme-stats.vercel.app/api?username=samuelokellogum)
+
