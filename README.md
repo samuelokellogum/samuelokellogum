@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💬 Ask me about **JavaScript**, **Dart**, **PHP**, **Python** and *Hollywood* 
-- 📫 How to reach me: @SamuelOkellogum
+- 💬 Ask me about **Programming**, **AI**, **Computer Science**, and *Hollywood* 
+- 📫 How to reach me: Twitter @SamuelOkellogum
 - ⚡ Fun fact: I love sports
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=samuelokellogum)
